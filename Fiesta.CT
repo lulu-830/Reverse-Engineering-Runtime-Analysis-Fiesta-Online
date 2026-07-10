@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1817</ID>
+      <Description>"Tools"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1808</ID>
+          <Description>"Skillziele (9)"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1807</ID>
+              <Description>"Segnung [11]"</Description>
+              <VariableType>String</VariableType>
+              <Length>12</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>09B8ABF4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1794</ID>
+              <Description>"Magiedetonation [09]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BCDA81</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>4</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1795</ID>
+              <Description>"Magiedetonation [10]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BCDD22</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>4</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1796</ID>
+              <Description>"Magiedetonation [11]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BCDFC3</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>4</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1798</ID>
+              <Description>"Kettenzaubern [01]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BD48EB</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1818</ID>
+              <Description>"Metamorphose [01]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BDB213</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1819</ID>
+              <Description>"Metamorphose IsInside"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BDB3F6</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1797</ID>
+              <Description>"Schnelligkeit der Natur [01]"</Description>
+              <Color>00FF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BBAC2E</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1801</ID>
+              <Description>"Geschwindigkeit der Natur [04]"</Description>
+              <Color>00FF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BB7F7D</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1804</ID>
+              <Description>"Verstecken [01]"</Description>
+              <Color>00FF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BBD39D</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1799</ID>
+              <Description>"Beschleunigen [01]"</Description>
+              <Color>FFFF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09BA2EFD</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1802</ID>
+              <Description>"Segnung [11]"</Description>
+              <Color>FFFF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09B8AC8A</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>2</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1803</ID>
+              <Description>"Standhalten [09]"</Description>
+              <Color>FFFF00</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09B9C876</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>2</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1800</ID>
+              <Description>"Gewalt [01]"</Description>
+              <Color>008080</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09B8116F</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1805</ID>
+              <Description>"Mondlicht [01]"</Description>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>09C13A6B</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>3</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>105</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1816</ID>
+          <Description>"Ani-Bugs (8)"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1815</ID>
+              <Description>"Heal18"</Description>
+              <VariableType>String</VariableType>
+              <Length>6</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0A64E867</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1812</ID>
+              <Description>"Magiedetonation [09]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>0A5CD2FA</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>153</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1813</ID>
+              <Description>"Magiedetonation [10]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>0A5CD6C8</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>153</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1814</ID>
+              <Description>"Magiedetonation [11]"</Description>
+              <Color>FF00FF</Color>
+              <VariableType>Byte</VariableType>
+              <Address>0A5CDA96</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>153</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>109</Key>
+                    <Key>104</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1784</ID>
+          <Description>"Effekte"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1742</ID>
+              <Description>"StaLegendaryTreeEntangle"</Description>
+              <VariableType>String</VariableType>
+              <Length>25</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>09D97581</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1788</ID>
+              <Description>"Unsichtbarkeit"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <GroupHeader>1</GroupHeader>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>107</Key>
+                    <Key>103</Key>
+                  </Keys>
+                  <Value>0</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1756</ID>
+                  <Description>"StaGMHideMode"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09D9FBC3</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>109</Key>
+                        <Key>103</Key>
+                      </Keys>
+                      <Value>288</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1743</ID>
+                  <Description>"StaHide"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09D90881</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>109</Key>
+                        <Key>103</Key>
+                      </Keys>
+                      <Value>75</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1744</ID>
+                  <Description>"StaHideWC"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DB0807</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>109</Key>
+                        <Key>103</Key>
+                      </Keys>
+                      <Value>485</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1749</ID>
+                  <Description>"StaPzlHide"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DB49F5</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>109</Key>
+                        <Key>103</Key>
+                      </Keys>
+                      <Value>596</Value>
+                      <ID>0</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1790</ID>
+              <Description>"GT Effekte"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1757</ID>
+                  <Description>"StaGTIHide"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA6A06</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1758</ID>
+                  <Description>"StaGTIBlind"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA669D</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1759</ID>
+                  <Description>"StaGTIReflect"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA657A</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1760</ID>
+                  <Description>"StaGTISpeed"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA6334</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1761</ID>
+                  <Description>"StaGTIScan"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA6B29</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1762</ID>
+                  <Description>"StaGTIConfusion"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA67C0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1763</ID>
+                  <Description>"StaGTIMetaSlime"</Description>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>09DA68E3</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>186</ID>
+          <Description>"Skilldefinition"</Description>
+          <Options moHideChildren="1"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>187</ID>
+              <Description>"Skillname"</Description>
+              <VariableType>String</VariableType>
+              <Length>22</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>0ABC7293</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>188</ID>
+              <Description>"Ziel"</Description>
+              <VariableType>4 Bytes</VariableType>
+              <Address>0ABC7329</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>189</ID>
+              <Description>"ben. Waffe"</Description>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>1</ByteLength>
+              <Address>0ABC72DF</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"Klasse"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>0ABC737C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>190</ID>
+              <Description>"ben. Seelen"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>0ABC750D</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1785</ID>
+              <Description>"IsInside"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>0ABC750C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1905</ID>
+              <Description>"IsMovingSkill"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>0ABC7331</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1906</ID>
+      <Description>"No description"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Fiesta.exe+2A590D </Address>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Code :cmp byte ptr [eax+000000C0],00</Description>
+      <AddressString>Fiesta.exe+2A590D</AddressString>
+      <Before>
+        <Byte>00</Byte>
+        <Byte>85</Byte>
+        <Byte>C0</Byte>
+        <Byte>74</Byte>
+        <Byte>0F</Byte>
+      </Before>
+      <Actual>
+        <Byte>80</Byte>
+        <Byte>B8</Byte>
+        <Byte>C0</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>74</Byte>
+        <Byte>06</Byte>
+        <Byte>5F</Byte>
+        <Byte>B0</Byte>
+        <Byte>01</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>
